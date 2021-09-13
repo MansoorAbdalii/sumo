@@ -8,7 +8,7 @@ try:
 
 	import requests
   
-  except ImportError:
+  except ImportError
 
 	os.system("pip2 install requests")
 
